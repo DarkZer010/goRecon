@@ -9,6 +9,6 @@ Built with `github.com/urfave/cli v1`.
 apt install git -y
 apt install golang -y
 git clone https://github.com/DarkZer010/goRecon.git
-cd goserver_recon
+cd goRecon
 go mod tidy
 go build
