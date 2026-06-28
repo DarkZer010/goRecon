@@ -23,4 +23,5 @@ go build
 | `ip` | Lookup all A and AAAA records for the domain | `./gorecon ip --host google.com.br` |
 | `servername` | Lookup NS records for the domain | `./gorecon servername --host google.com.br` |
 
+### **Example with image**
 <img src="docs/example_basic.png" width="600" alt="goRecon Demo">
