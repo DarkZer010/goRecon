@@ -32,5 +32,6 @@ go build
 
 **DarkZer010** 
 - Telegram: [@DarkZer0](https://t.me/DarkZer0_dz0)
+- X (old twitter): [DarkZer0_dz0](https://x.com/DarkZer0_dz0)
 
 License: MIT
