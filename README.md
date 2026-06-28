@@ -13,3 +13,7 @@ cd goRecon
 go mod tidy
 go build
 ```
+### **How to Use**
+
+```bash
+./goRecon [command] --host [domain]
