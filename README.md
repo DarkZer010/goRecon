@@ -8,7 +8,7 @@ Built with `github.com/urfave/cli v1`.
 ```bash
 apt install git -y
 apt install golang -y
-git clone https://github.com/DarkZer010/goserver_recon.git
+git clone https://github.com/DarkZer010/goRecon.git
 cd goserver_recon
 go mod tidy
 go build
