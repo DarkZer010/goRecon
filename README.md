@@ -31,6 +31,6 @@ go build
 ### **Author**
 
 **DarkZer010** 
-- GitHub: [@DarkZer010](https://github.com/DarkZer010)
+- Telegram: [@DarkZer0](https://t.me/DarkZer0_dz0)
 
 License: MIT
