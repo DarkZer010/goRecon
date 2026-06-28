@@ -17,3 +17,8 @@ go build
 
 ```bash
 ./goRecon [command] --host [domain]
+```
+| Command | Description | Example |
+| --- | --- | --- |
+| `ip` | Lookup all A and AAAA records for the domain | `./goRecon ip --host google.com.br` |
+| `servername` | Lookup NS records for the domain | `./goRecon servername --host google.com.br` |
