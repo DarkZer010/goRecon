@@ -25,3 +25,12 @@ go build
 
 ### **Example with image**
 <img src="docs/example_basic.png" width="600" alt="goRecon Demo">
+
+---
+
+### **Author**
+
+**DarkZer010** 
+- GitHub: [@DarkZer010](https://github.com/DarkZer010)
+
+License: MIT
