@@ -3,7 +3,7 @@ A Go command-line tool for basic web server reconnaissance. Quickly lookup IPs a
 
 Built with `github.com/urfave/cli v1`.
 
-### **Installation**
+### **Installation (TERMUX/LINUX)**
 
 ```bash
 apt install git -y
@@ -12,3 +12,4 @@ git clone https://github.com/DarkZer010/goRecon.git
 cd goRecon
 go mod tidy
 go build
+```
