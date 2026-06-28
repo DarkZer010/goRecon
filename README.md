@@ -16,9 +16,9 @@ go build
 ### **How to Use**
 
 ```bash
-./goRecon [command] --host [domain]
+./gorecon [command] --host [domain]
 ```
 | Command | Description | Example |
 | --- | --- | --- |
-| `ip` | Lookup all A and AAAA records for the domain | `./goRecon ip --host google.com.br` |
-| `servername` | Lookup NS records for the domain | `./goRecon servername --host google.com.br` |
+| `ip` | Lookup all A and AAAA records for the domain | `./gorecon ip --host google.com.br` |
+| `servername` | Lookup NS records for the domain | `./gorecon servername --host google.com.br` |
