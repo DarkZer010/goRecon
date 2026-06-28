@@ -1,4 +1,4 @@
-module goserver_recon
+module gorecon
 
 go 1.26.3
 
