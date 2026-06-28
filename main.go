@@ -4,7 +4,7 @@ import (
         "fmt"
         "log"
         "os"
-        "goserver_recon/app"
+        "gorecon/app"
 )
 
 func main() {
