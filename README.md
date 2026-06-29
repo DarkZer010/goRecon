@@ -21,7 +21,10 @@ go build
 | Command | Description | Example |
 | --- | --- | --- |
 | `ip` | Lookup all A and AAAA records for the domain | `./gorecon ip --host google.com.br` |
-| `servername` | Lookup NS records for the domain | `./gorecon servername --host google.com.br` |
+| `ns` | Lookup NS records for the domain | `./gorecon ns --host google.com.br` |
+| `cnm` | Lookup the canonical name for the domain | `./gorecon cnm --host google.com.br` |
+| `txt` | Lookup txt records for the domain | `./gorecon txt --host google.com.br` |
+
 
 ### **Example with image**
 <img src="docs/example_basic.png" width="600" alt="goRecon Demo">
