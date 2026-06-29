@@ -1,5 +1,5 @@
 # goRecon
-A Go command-line tool for basic web server reconnaissance.
+A Go command-line tool for basic web server reconnaissance. Project for study.
 
 Built with `github.com/urfave/cli v1`.
 
