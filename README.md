@@ -29,6 +29,9 @@ go build
 ### **Example with image**
 <img src="docs/example_basic.png" width="600" alt="goRecon Demo">
 
+#### **⚠️ Legal disclaimer ⚠️**
+This tool is for study purposes only and should be used on domains that you own or have explicit permission to analyze. Unauthorized queries may violate network and data protection laws in various countries.
+
 ---
 
 ### **Author**
