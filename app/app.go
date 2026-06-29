@@ -82,7 +82,7 @@ func searchServersName(c *cli.Context) error {
     	fmt.Println(server.Host)
     }
 
-    fmt.Println("-------------------------------\n")
+    fmt.Println("-----------------------------\n")
 
     return nil
 }
